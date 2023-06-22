@@ -1,5 +1,5 @@
 # PixselX_Photography_Management_System
-"PixselX" is the name of the event photography management system which I've put into operation.
+"PixselX" is the name of the photography management system which I've put into operation.
 "PixselX.com" is the name of the photography management system that I put into place. Pages on PixselX.com can be static or dynamic. 
 The clients may reserve the event date they want with our services easily using the system, which I also developed for, 
 and this web application allows them cover their individual events with the preferred photographer. 
