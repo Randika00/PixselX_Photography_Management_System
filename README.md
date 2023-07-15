@@ -11,7 +11,8 @@ Both the Header and the Footer have been navigated using two navigators.I also p
 this page through such advertisements.Utilizing Visual Studio Code as the development IDE and a MySQL database to hold data, the application was created utilizing 
 the HTML,PHP and JavaScript programming languages.
 
-The web application is developed under agile methodology, categorized into following components
+The web application is developed under agile methodology, categorized into following components,
+
 - Customer Registration
 - Employee Management
 - Print & Services
