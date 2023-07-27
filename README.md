@@ -1,4 +1,4 @@
-## PixselX_Photography_Management_System
+## PixselX_Photography_Management_System 📸
 `JavaScript` `HTML` `CSS` `Bootstrap` `PHP` `XAMPP` `MySQL`
 
 "PixselX" is the name of the photography management system which I've put into operation.
