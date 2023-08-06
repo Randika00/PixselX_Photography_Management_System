@@ -13,7 +13,7 @@ this page through such advertisements.Utilizing Visual Studio Code as the develo
 utilizing the HTML,PHP and JavaScript programming languages.
 
 The web application is developed under agile methodology, categorized into following components,
-
+ 
 - Customer Registration
 - Employee Management
 - Print & Services
